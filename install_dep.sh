@@ -1,0 +1,1 @@
+pip install diffusers==0.15 transformers einops omegaconf pytorch_lightning accelerate --retries 0
