@@ -30,6 +30,13 @@ Python 3.8.8 (default, Jul 20 2021, 08:48:08)
 # Please refer to the requirements.txt
 pip3 install -r requirements.txt
 ```
+### Download SD1.5 Model
+```shell
+curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+sudo apt-get install git-lfs
+git lfs install
+git lfs clone https://huggingface.co/runwayml/stable-diffusion-v1-5
+```
 
 ## Usage
 ```shell
