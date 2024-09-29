@@ -36,6 +36,9 @@ curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.s
 sudo apt-get install git-lfs
 git lfs install
 git lfs clone https://huggingface.co/runwayml/stable-diffusion-v1-5
+# or
+# git lfs clone https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5
+# For Chinese users, please refer to the following website https://blog.csdn.net/BetrayFree/article/details/134023877.
 ```
 
 ## Usage
