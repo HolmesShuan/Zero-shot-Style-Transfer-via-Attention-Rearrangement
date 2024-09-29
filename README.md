@@ -3,6 +3,8 @@
 
 ## Project Name
 Z-STAR: Zero-shot Style Transfer via Attention Rearrangement (Reweighting)
+<img width="1154" alt="image" src="https://github.com/user-attachments/assets/4bf65ab7-a5d3-4400-b8aa-83ebca942e87">
+
 
 ## Introduction
 Z-STAR is an innovative zero-shot (training-free) style transfer method that leverages the generative prior knowledge within a pre-trained diffusion model. By employing an attention rearrangement strategy, it effectively fuses content and style information without the need for retraining or tuning for each input style.
